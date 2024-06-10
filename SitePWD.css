@@ -1,1 +1,94 @@
+header {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16pt;
+    font-family:  Gill Sans, sans-serif;
+}
 
+img {
+    margin-right: 100px;
+    width: 190px;
+    height: 150px;    
+}
+
+li{
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav {
+    color: #ffffff;
+    background-color: #cdb4db;
+    text-decoration: none;
+    font-size: 16pt;
+    font-family:  Gill Sans, sans-serif;
+    padding: 20px;
+    position: static;
+    border-radius: 20px;
+}
+
+main{
+    display: flex;
+    height: 60vh;
+}
+
+#page {
+    background-color: #ffc8dd;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+    height: 85%;
+    width: 73%;
+    display: block;
+}
+
+#Article{
+    background-color: #fcf6bd;
+    padding: 20px;
+    border-radius: 20px;
+    width: 20%;
+    height: 80%;
+    margin-left: 77%;
+}
+
+#Section {
+    background-color:#bde0fe;
+    width: 92%;
+    height: 34%;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+#popo {
+    border-radius: 20px;
+    background-color: #a2d2ff;
+    padding: 20px;
+    margin: 20px 0px 0px 0px;
+    height: 85%;
+    width: 20%;
+}
+
+#divisao {
+    background-color: #cbf3f0;
+    width: 92%;
+    height: 48%;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+footer {
+    background: #fed9b7;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    width: 98%;
+}
+
+footer p {
+    font-size: 1.2em;
+    font-family: 'Comic Sans MS', sans-serif;
+}
