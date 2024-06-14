@@ -1,4 +1,13 @@
 
+		body{
+			position: center;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+		}
+
+
+
 		.subuxa{
 			width: 70%;
 
