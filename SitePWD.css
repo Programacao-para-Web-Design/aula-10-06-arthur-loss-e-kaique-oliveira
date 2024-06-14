@@ -1,94 +1,139 @@
-header {
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16pt;
-    font-family:  Gill Sans, sans-serif;
-}
 
-img {
-    margin-right: 100px;
-    width: 190px;
-    height: 150px;    
-}
+		#devj{
 
-li{
-    display: inline-block;
-    list-style-type: none;
-}
+			font-size:: 12px;
+			text-align: center;
+			font-style: italic;
+			
+		}
+		#ceemti{
 
-nav {
-    color: #ffffff;
-    background-color: #cdb4db;
-    text-decoration: none;
-    font-size: 16pt;
-    font-family:  Gill Sans, sans-serif;
-    padding: 20px;
-    position: static;
-    border-radius: 20px;
-}
+			background: -webkit-gradient(linear, left top, right top, from(#bac4eb), to(#0733d6)) no-repeat;
+            		background: -moz-linear-gradient(left, #505569, #031c7a);
+            		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			
+		}
+		main{
+			max-width: 75%;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+						
+		}
+		body{
+			background-color: grownn;
+		}
 
-main{
-    display: flex;
-    height: 60vh;
-}
+		.Aula{
+			font-size: 16px;
+			text-align: center;
+			font-weight: bold;
+		}
+		.materia{
 
-#page {
-    background-color: #ffc8dd;
-    padding: 20px;
-    border-radius: 20px;
-    margin: 20px;
-    height: 85%;
-    width: 73%;
-    display: block;
-}
+			font-size: 16px;
+			text-align: center;
+			font-weight: bold;
+			
+		}
 
-#Article{
-    background-color: #fcf6bd;
-    padding: 20px;
-    border-radius: 20px;
-    width: 20%;
-    height: 80%;
-    margin-left: 77%;
-}
+		header{
+            		background: -webkit-gradient(linear, left top, right top, from(#bac4eb), to(#0733d6)) no-repeat;
+            		background: -moz-linear-gradient(left, #505569, #031c7a);
+            		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+		}
 
-#Section {
-    background-color:#bde0fe;
-    width: 92%;
-    height: 34%;
-    padding: 20px;
-    margin-top: 10px;
-    border-radius: 20px;
-}
+		#Progwebparwebdesign{
 
-#popo {
-    border-radius: 20px;
-    background-color: #a2d2ff;
-    padding: 20px;
-    margin: 20px 0px 0px 0px;
-    height: 85%;
-    width: 20%;
-}
+			background-color: #ffc2ea;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
+			
+			
+		}
+		#Desenvdegames{
 
-#divisao {
-    background-color: #cbf3f0;
-    width: 92%;
-    height: 48%;
-    padding: 20px;
-    border-radius: 20px;
-}
+			background-color: yellow;  
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
+			
+		}
+		#Analprogdesis{
+			
+			background-color: red;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
+			
+		}
 
-footer {
-    background: #fed9b7;
-    color: #ffffff;
-    text-align: center;
-    padding: 20px;
-    border-radius: 20px;
-    width: 98%;
-}
+		#Nasa{
+	    
+			display: flex;
+			background-color: #f5f4ce;
+			box-shadow: 7px 7px 9px 0px black;
+			font-weight: bold;
+			font-size: 20px;
+			text-align: center; 
+			justify-content: center;
+			pading: 2px;
+		        
+		}
 
-footer p {
-    font-size: 1.2em;
-    font-family: 'Comic Sans MS', sans-serif;
-}
+		.nome{
+			font-weight: bold;
+			font-size: 20px;
+			text-align: center; 
+		}
+
+		#pezin{
+
+		    	background-color: sky blue;
+			width: 100%;
+        		color: white;
+        
+		}
+			@media screen and (max-width: 1200px){
+				img{
+		                	width: 400px;
+		                	height: 400px;
+		                	}
+		            }
+			@media screen and (max-width: 760px){
+		                img{
+		                	width: 400px;
+		                	height: 400px;
+		                	}
+		            }
+			@media screen and (max-width: 200px){
+		                img{
+		                	width: 300px;
+		                	height: 300px;
+		                	}
+		            }
+			@media screen and (max-width: 100px){
+		                img{
+		                	width: 200px;
+		                	height: 200px;
+		                	}
+		            }
