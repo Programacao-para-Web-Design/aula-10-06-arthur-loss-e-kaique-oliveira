@@ -28,6 +28,7 @@
 			align-items: center;
 			text-align: center;
 			pading: 2px;
+			position: center;
 			
 						
 		}
@@ -75,6 +76,7 @@
 			text-align: center;
 			pading: 2px;
 			margin: 0 auto;
+			max-width: 50%;
 			
 			
 		}
