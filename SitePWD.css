@@ -109,9 +109,9 @@
 
 		#pezin{
 
-		    	background-color: #f5f4ce;
+		    	background-color: #000000c7;
 			width: 100%;
-        		text-color: black;
+        		text-color: white;
         
 		}
 			@media screen and (max-width: 1200px){
