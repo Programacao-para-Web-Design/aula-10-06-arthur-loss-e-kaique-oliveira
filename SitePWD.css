@@ -1,9 +1,8 @@
 
 		body{
-			position: center;
-			justify-content: center;
-			align-items: center;
-			text-align: center;
+			position: relative;
+			margin-left: auto;
+  			margin-right: auto;
 		}
 
 
