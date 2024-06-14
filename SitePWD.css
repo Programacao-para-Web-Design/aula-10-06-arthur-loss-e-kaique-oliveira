@@ -1,3 +1,12 @@
+
+		.subuxa{
+			max-width: 50%;
+
+
+		}
+
+
+
 		.section{
 			background-color: #000000c7;
 		}
@@ -76,8 +85,8 @@
 			text-align: center;
 			pading: 2px;
 			margin: 0 auto;
-			width: 30%;
-			height: 30%;
+			width: 50%;
+			
 			
 			
 		}
