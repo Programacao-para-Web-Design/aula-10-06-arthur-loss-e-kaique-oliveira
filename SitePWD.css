@@ -22,7 +22,7 @@
 		}
 		#ceemti{
 
-			background: -webkit-gradient(linear, left top, right top, from(#bac4eb), to(#0733d6)) no-repeat;
+			background: -webkit-gradient(linear, left top, right top, from(#faa3a3), to(#ff0000)) no-repeat;
             		background: -moz-linear-gradient(left, #505569, #031c7a);
             		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
 			justify-content: center;
