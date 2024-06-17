@@ -22,6 +22,8 @@
 
 		section{
 			background-color: #8611add6;
+			position: absolut;
+			text-color: #f9f6fad6;
 		}
 		#devj{
 
@@ -144,7 +146,7 @@
 
 		    	background-color: #06c6eb;
 			width: 100%;
-       			text-color: white;
+       			text-color: #f9f6fad6;
         
 		}
 			@media screen and (max-width: 1200px){
