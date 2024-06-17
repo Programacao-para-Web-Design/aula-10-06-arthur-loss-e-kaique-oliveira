@@ -132,7 +132,8 @@
 		.nome{
 			font-weight: bold;
 			font-size: 20px;
-			text-align: center; 
+			text-align: center;
+			align-items: center;
 		}
 
 		#pezin{
