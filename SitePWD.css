@@ -125,13 +125,13 @@
 		#Nasa{
 	    
 			display: flex;
-			background-color: #f5f4ce;
+			background-color: #0667ebd6;
 			box-shadow: 7px 7px 9px 0px black;
 			font-weight: bold;
 			font-size: 20px;
 			text-align: center; 
 			justify-content: center;
-			pading: 2px;
+			pading: 10px;
 		        
 		}
 
